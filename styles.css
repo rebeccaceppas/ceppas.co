@@ -25,6 +25,10 @@ header {
     text-decoration: none;
 }
 
+.moon-logo {
+    color: black;
+}
+
 .nav-menu {
     list-style: none;
     margin: 0;
