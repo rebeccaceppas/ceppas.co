@@ -103,3 +103,11 @@ section {
     margin-top: 10px;
     color: #666;
 }
+
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
