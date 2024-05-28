@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #f9f7e8;
+    background-color: white;
     color: black;
 }
 
@@ -35,13 +35,29 @@ header {
     background-color: #555;
 }
 
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-icon {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    color: #00aaff;
+}
+
 section {
     padding: 2rem;
     text-align: center;
 }
 
-#about #projects #contact {
-    background-color: #f4f4f4;
+#home #about #projects #contact {
+    background-color: white;
     margin-top: 1rem;
 }
 
